@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/BuildPmoList.csproj": {}
+  },
+  "projects": {
+    "/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/BuildPmoList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/BuildPmoList.csproj",
+        "projectName": "BuildPmoList",
+        "projectPath": "/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/BuildPmoList.csproj",
+        "packagesPath": "/Users/sofia.rokkones/.nuget/packages/",
+        "outputPath": "/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sofia.rokkones/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/riksbyggen-digital-platform/_packaging/Riksbyggen.Graph.NuGetFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[15.0.10, )"
+            },
+            "Json.Net": {
+              "target": "Package",
+              "version": "[1.0.23, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,115 @@
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csprojAssemblyReference.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfoInputs.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfo.cs
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CoreCompileInputs.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.deps.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.dev.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CopyComplete
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.genruntimeconfig.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/Json.Net.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/CsvHelper.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.deps.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.dev.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/bin/Debug/netcoreapp3.1/CsvHelper.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/bin/Debug/netcoreapp3.1/Json.Net.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csprojAssemblyReference.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfoInputs.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfo.cs
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CoreCompileInputs.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CopyComplete
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia)/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.genruntimeconfig.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.deps.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.dev.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/CsvHelper.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/Json.Net.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csprojAssemblyReference.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfoInputs.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfo.cs
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CoreCompileInputs.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CopyComplete
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.genruntimeconfig.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.deps.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.dev.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/bin/Debug/netcoreapp3.1/CsvHelper.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/bin/Debug/netcoreapp3.1/Json.Net.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csprojAssemblyReference.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfoInputs.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfo.cs
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CoreCompileInputs.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CopyComplete
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList (kopia) - för test/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.genruntimeconfig.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.deps.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.dev.json
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/bin/Debug/netcoreapp3.1/CsvHelper.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/bin/Debug/netcoreapp3.1/Json.Net.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csprojAssemblyReference.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfoInputs.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfo.cs
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CoreCompileInputs.cache
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CopyComplete
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/OneDrive - Forefront Consulting Group/Projects/Visual Studio/PMO - Hämta Cinoded data/BuildPmoList - new updated/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.genruntimeconfig.cache
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.deps.json
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.json
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.runtimeconfig.dev.json
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/bin/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/bin/Debug/netcoreapp3.1/CsvHelper.dll
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/bin/Debug/netcoreapp3.1/Json.Net.dll
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.AssemblyReference.cache
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfoInputs.cache
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.AssemblyInfo.cs
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CoreCompileInputs.cache
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.csproj.CopyComplete
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.dll
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.pdb
+/Users/sofia.rokkones/dev/PMO/PmoCinodeDataIntegration/BuildPmoList/obj/Debug/netcoreapp3.1/BuildPmoList.genruntimeconfig.cache
